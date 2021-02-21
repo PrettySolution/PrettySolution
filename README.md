@@ -6,7 +6,7 @@
     * 📫 **vasil.german@gmail.com**
     * 📱 **[telegram](https://t.me/vasylherman)**
 
-[![Vasyl Herman github stats](https://github-readme-stats.vercel.app/api?username=prettysolution&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Vasyl Herman github stats](https://github-readme-stats.vercel.app/api?username=prettysolution)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prettysolution&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prettysolution&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
