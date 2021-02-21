@@ -3,8 +3,8 @@
 
 * 💬 Ask me about **DevOps**
 * How to reach me: 
-    * 📫 **vasil.german@gmail.com**
-    * 📱 **[telegram](https://t.me/vasylherman)**
+    * **vasil.german@gmail.com**
+    * **[telegram](https://t.me/vasylherman)**
 
 [![Vasyl Herman github stats](https://github-readme-stats.vercel.app/api?username=prettysolution&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
